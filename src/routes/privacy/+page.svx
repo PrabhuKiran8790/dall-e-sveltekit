@@ -1,0 +1,34 @@
+# Privacy Policy
+
+**Effective Date:** September 27 2023
+
+## Introduction
+
+This Privacy Policy outlines how we collects and uses limited personal information when you use our AI image generation service through the [DALL-E SvelteKit website](https://dall-e-sveltekit.vercel.app) (the "Website"). By accessing or using the Website, you consent to the practices described in this Privacy Policy.
+
+## Information We Collect
+
+- **Personal Information**: We collect your name and email address when you create an account on our Website. This information is used for account management and communication purposes.
+
+## How We Use Your Information
+
+- **AI Image Generation**: We use your name and email address for account management and to facilitate access to our AI image generation service.
+
+- **Communication**: We may use your email address to send you service-related updates and notifications.
+
+## Payment Information
+
+We do not collect or store payment information. Payment transactions, including credit card details, are handled by Stripe, a third-party payment processor. Stripe's privacy and security practices govern payment processing.
+
+## Web Hooks and Credit Updates
+
+To process payments and update credits, we use web hooks provided by Stripe. When a payment is successfully processed by Stripe, we receive a positive response through the web hook, and we update your credit balance accordingly. We do not store any payment information in our database.
+
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the updated Privacy Policy on the Website. Your continued use of the Website after such changes constitutes your acceptance of the updated policy.
+
+## Contact Us
+
+If you have questions or concerns about this Privacy Policy, please contact us at [prabhukiran426@gmail.com](mailto:prabhukiran426@gmail.com).
